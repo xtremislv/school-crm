@@ -1,0 +1,8 @@
+# .gitignore (at project root)
+node_modules/
+.env
+.env.local
+*.env
+dist/
+.DS_Store
+*.log
